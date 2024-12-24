@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace GarageLibrary
 {
-    // Класс Car - Автомобиль (Автор: [Ваша Фамилия])
+    
     public class Car
     {
         public string Owner { get; set; }
@@ -24,7 +24,7 @@ namespace GarageLibrary
 
 namespace GarageLibrary
 {
-    // Класс Garage - Гараж (Автор: Бережной Кирилл)
+   
     public class Garage
     {
         public string Address { get; set; }
